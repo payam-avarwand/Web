@@ -1,0 +1,18 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+p {
+	font-size:7vw;
+	text-align:left;
+	font-weight:700;
+	color: blue !important;
+}
+.p1 {
+	background-image:url('test.jpg');
+	color: blue;
+}
+#t1 {
+	color: red;
+}
